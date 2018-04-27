@@ -1,3 +1,3 @@
 # notes
 Learning notes
-https://codepen.io/ranbine/pen/QrEgew
+每天的代码，放在当天的笔记里
