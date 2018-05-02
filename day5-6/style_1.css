@@ -1,0 +1,35 @@
+
+span{
+    font-size: 14px;
+    font-weight:normal;
+}
+div.little{
+    margin:10px;
+
+}
+
+h1{
+
+}
+h2{
+
+}
+p{
+    font-weight:bold;
+
+}
+
+a:link{
+    color:#8ff;
+    text-decoration:none;
+    
+}
+a:visited{
+    color:#f10;
+}
+a:hover{
+    color:#66f;
+}
+a:active{color:#72f
+
+}
